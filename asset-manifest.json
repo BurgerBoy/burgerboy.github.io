@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9fecd5e5.css",
+    "main.js": "/static/js/main.12c7e9b5.js",
+    "static/js/787.789f00e6.chunk.js": "/static/js/787.789f00e6.chunk.js",
+    "static/media/Patrick_McCullough_II.pdf": "/static/media/Patrick_McCullough_II.3d7bc615dda4b9b7a048.pdf",
+    "static/media/pat.jpg": "/static/media/pat.8d8afd412242e0d431d3.jpg",
+    "index.html": "/index.html",
+    "main.9fecd5e5.css.map": "/static/css/main.9fecd5e5.css.map",
+    "main.12c7e9b5.js.map": "/static/js/main.12c7e9b5.js.map",
+    "787.789f00e6.chunk.js.map": "/static/js/787.789f00e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fecd5e5.css",
+    "static/js/main.12c7e9b5.js"
+  ]
+}
